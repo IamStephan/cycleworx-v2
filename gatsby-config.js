@@ -19,10 +19,10 @@ module.exports = {
       resolve: "gatsby-plugin-manifest",
       options: {
         name: title,
-        short_name: "Agency",
+        short_name: "Cycleworx Langebaan",
         start_url: "/",
-        background_color: "#ffffff",
-        theme_color: "#fed136",
+        background_color: "#fafafa",
+        theme_color: "#31a859",
         display: "minimal-ui",
         icon: "content/assets/favicon1.png",
       },
