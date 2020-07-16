@@ -1,0 +1,31 @@
+module.exports = {
+  title: "Cycleworx Langebaan",
+  keywords: [
+    "gatsby",
+    "gatsbyjs",
+    "landing page",
+    "landing",
+    "i18n",
+    "Bicycle",
+    "mountain biking",
+    "bicycle workshop",
+    "workshop",
+    "road bike",
+    "cycling",
+    "bike shop",
+    "bicycle shop",
+    "bicycle retailer",
+    "bicycle for hire",
+    "bicycle to let",
+    "bike for hire",
+    "bike to let",
+    "cycleworx langebaan",
+  ],
+  description: "Your local bicycle workshop and retailer.",
+  author: "Stephan Burger",
+  trackingId: "UA-119418003-5",
+  defaultLang: "en",
+  langTextMap: {
+    en: "English"
+  },
+};
