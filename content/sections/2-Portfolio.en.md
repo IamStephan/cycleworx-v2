@@ -30,7 +30,7 @@ portfolios: [
   {
     imageFileName: "portfolio/04-thumbnail.jpg",
     imageFileNameDetail: "portfolio/04-full.jpg",
-    header: "Cleaning",
+    header: "Pro Wash & Lube",
     subheader: "Maintenance",
     content: "Finishing an adventurous ride can sometimes lead to a dirty bike, and we can fix that. Just bring your bike to us, and we'll make sure that it shines afterwards.",
     extraInfo: []
