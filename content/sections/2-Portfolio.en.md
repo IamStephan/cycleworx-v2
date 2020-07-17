@@ -8,7 +8,7 @@ portfolios: [
     imageFileNameDetail: "portfolio/01-full1.jpg",
     header: "Full Service",
     subheader: "Maintenance",
-    content: "Cycleworx offers both hardtail and soft-tail services. First we make sure your bike is as clean as its ever been. Then we check and fix every part of your bike, making sure that when it leaves the shop it feels like a brand-new bike.",
+    content: "Cycleworx Langebaan offers both hardtail and soft-tail services. First we make sure your bike is as clean as its ever been. Then we check and fix every part of your bike, making sure that when it leaves the shop it feels like a brand-new bike.",
     extraInfo: ["Hard tail", "Soft-tail"]
   },
   {

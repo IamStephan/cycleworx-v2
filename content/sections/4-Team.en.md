@@ -22,7 +22,7 @@ teamMember: [
   },
   {
     imageFileName: "team/33.jpg",
-    header: "Prince",
+    header: "Prince Mazie",
     subheader: "Mechanic",
     social: {
       

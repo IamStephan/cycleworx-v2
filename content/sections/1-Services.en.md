@@ -1,12 +1,12 @@
 ---
 anchor: "Services"
 header: "Our Services"
-subheader: "Cycleworx is your one-stop-shop for your bicycle."
+subheader: "Cycleworx Langebaan is your one-stop-shop for your bicycle."
 services: [
   {
     iconName: "ShoppingCartIcon",
     header: "Retail",
-    content: "From bicycle accessories to globally recognized bicycles, we have it all. Cycleworx can assist you in all your bicycle related purchases."
+    content: "From bicycle accessories to globally recognized bicycles, we have it all. Cycleworx Langebaan can assist you in all your bicycle related purchases."
   },
   {
     iconName: "WorkshopIcon",
@@ -16,7 +16,7 @@ services: [
   {
     iconName: "BikingIcon",
     header: "Rentals",
-    content: "When your family visits and wants to join you on your cycling adventures, cycleworx can provide you with industry standard bicycles."
+    content: "When your family visits and wants to join you on your cycling adventures, Cycleworx Langebaan can provide you with industry standard bicycles."
   }
 ]
 ---
