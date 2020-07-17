@@ -1,7 +1,7 @@
 ---
 anchor: "Team"
 header: "Meet the A-Team"
-subheader: "Professional, friendly and eager to help"
+subheader: "Professional, friendly and eager to help."
 content: ""
 teamMember: [
   {
