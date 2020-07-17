@@ -1,7 +1,7 @@
 ---
 anchor: "Services"
 header: "Our Services"
-subheader: "Cycleworx is your one-stop-shop for your bicycle"
+subheader: "Cycleworx is your one-stop-shop for your bicycle."
 services: [
   {
     iconName: "ShoppingCartIcon",
