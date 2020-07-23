@@ -24,7 +24,7 @@ portfolios: [
     imageFileNameDetail: "portfolio/03-full1.jpg",
     header: "Tube & Tubeless",
     subheader: "Wheels",
-    content: "Be it a thorn or simply wanting to go tubeless, we can both insert new tubes and guide you through the process of going tubeless.",
+    content: "Cycleworx Langebaan is at the forefront of puncture prevention. With sealant tube solutions to tubeless conversion, we have it. Even if it is just a topup.",
     extraInfo: []
   },
   {
@@ -38,7 +38,7 @@ portfolios: [
   {
     imageFileName: "portfolio/05-thumbnail.jpg",
     imageFileNameDetail: "portfolio/05-full.jpg",
-    header: "Breaks",
+    header: "Brakes",
     subheader: "Maintenance",
     content: "Don't let your brakes fail on you. Bring your bike and let us bleed your brakes and make sure they work as expected.",
     extraInfo: []
@@ -48,7 +48,7 @@ portfolios: [
     imageFileNameDetail: "portfolio/06-full.jpg",
     header: "Gears",
     subheader: "Maintenance",
-    content: "Gears not shifting correctly? Might be cables, let us adjust your gears to perfection making them as smooth as butter.",
+    content: "Gears not shifting right? It might be cables, let us adjust your gears to perfection making them shift as smooth as butter.",
     extraInfo: []
   }
 ]
